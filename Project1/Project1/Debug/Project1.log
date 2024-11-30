@@ -1,0 +1,3 @@
+﻿  소스.cpp
+소스.obj : error LNK2019: "void __cdecl rankclac(int * const,int * const)" (?rankclac@@YAXQAH0@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\homersub\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

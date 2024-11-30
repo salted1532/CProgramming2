@@ -1,0 +1,9 @@
+﻿  D반_202003396_신윤섭.c
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(16,15): warning C4473: 'fscanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(16,15): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 6개 필요하지만 5개가 제공되었습니다.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(16,15): message : 누락된 variadic 인수 6이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(9,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(10,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(16,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭_문제5번\D반_202003396_신윤섭.c(8,6): warning C4101: 'buntot' :참조되지 않은 지역 변수입니다.
+  D반_202003396_신윤섭_문제5번.vcxproj -> C:\Users\homersub\source\repos\D반_202003396_신윤섭_문제5번\Debug\D반_202003396_신윤섭_문제5번.exe
