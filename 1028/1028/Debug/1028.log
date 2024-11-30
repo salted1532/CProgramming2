@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\homersub\source\repos\1028\1028\소스.cpp(15,6): warning C4101: 'inx' :참조되지 않은 지역 변수입니다.
+  1028.vcxproj -> C:\Users\homersub\source\repos\1028\Debug\1028.exe
