@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\homersub\Desktop\C코딩한거\1209\1209\소스.cpp(78,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\homersub\Desktop\C코딩한거\1209\1209\소스.cpp(84,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\Desktop\C코딩한거\1209\1209\소스.cpp(85,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\Desktop\C코딩한거\1209\1209\소스.cpp(88,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\homersub\Desktop\C코딩한거\1209\1209\소스.cpp(92,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1209.vcxproj -> C:\Users\homersub\Desktop\C코딩한거\1209\Debug\1209.exe
